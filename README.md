@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=62)
 
 ## 👋 About Me
-Full Stack Developer passionate about building innovative applications and solutions from South Korea.
+Full Stack Developer passionate about building innovative applications and solutions from South Korea. I'm dedicated to continuous learning and professional growth, always exploring new technologies and methodologies. I take pride in delivering high-quality, reliable code with a strong sense of ownership and accountability. My goal is to create meaningful digital experiences that solve real-world problems while maintaining clean, maintainable codebases.
 
 ## 🛠️ Tech Stack
 
