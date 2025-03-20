@@ -37,9 +37,9 @@ Full Stack Developer passionate about building innovative applications and solut
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=handue&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=handue&theme=radical" />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=handue&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=handue&theme=radical)
+
 
 ## 💼 Experience
 - Frontend: JavaScript/TypeScript (React.js) – 3+ years, HTML5/CSS3 – 3+ years
