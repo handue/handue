@@ -36,17 +36,43 @@ Full Stack Developer passionate about building innovative applications and solut
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+
 ## 📊 GitHub Stats
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=handue&theme=radical" />
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=handue&layout=compact&theme=radical)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=handue&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=handue&theme=radical" />
 
 
-## 💼 Experience
-- Frontend: JavaScript/TypeScript (React.js) – 3+ years, HTML5/CSS3 – 3+ years
-- Backend: Node.js/Express – 3+ years, Java (Spring) – 2+ years
-- Mobile: Flutter/Dart – 3+ years, Unity/C# – 1+ year
-- Database: MongoDB – 2+ years, MySQL – 2+ years
-- DevOps & Tools: AWS, Git, Firebase, Heroku, Nginx
+- ## 🏢 Professional Projects
+
+### Full Stack Web Platform (TypeScript, React.js, Node.js, MongoDB)
+- Developed responsive membership platform with recurring payment system (Square API)
+- Implemented state management using Redux and optimized web performance
+- Created automated RSVP system and data workflow processes
+- Integrated third-party APIs (Gmail, Google Calendar, Square, Google Sheets)
+- Deployed Progressive Web Application (PWA) with maintainable architecture
+
+### Shopify Extension ERP Support (TypeScript, React.js, Node.js, AWS)
+- Developed automated data synchronization between Shopify and Google Sheets
+- Created data analytics visualization dashboard
+- Deployed and configured AWS Nginx Server
+
+### Cross-Platform Mobile Application (Flutter, Node.js)
+- Implemented MVC architecture and RESTful APIs
+- Configured cross-platform compatibility with webview integration
+- Integrated Firebase Cloud Message for push notifications
+- Implemented state management using GetX
+
+### AR Mobile Application (Flutter, Unity)
+- Designed UI architecture using MVC pattern with Flutter-Unity integration
+- Implemented state management using GetX
+- Developed cross-platform AR features using Unity
+
+## 🎓 Private Projects
+- **Quiz Application**: Flutter frontend with Java Spring backend
+- **Rhythm Game**: Interactive game developed using Java
+- **Schedule Sharing Program**: Java/JavaFX application with authentication and MariaDB
+- **Web Service**: Full-stack web application using Java Spring Boot, JavaScript, HTML, CSS
 
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uznah.j08@gmail.com)
