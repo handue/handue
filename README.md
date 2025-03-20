@@ -39,17 +39,10 @@ Full Stack Developer passionate about building innovative applications and solut
 
 ## 📊 GitHub Stats
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=handue&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=handue&theme=radical" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=handue&theme=radical" />
 
 ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-21-blue?style=for-the-badge)
 ![Public Repositories](https://img.shields.io/badge/Public%20Repositories-15-green?style=for-the-badge)
 ![Private Repositories](https://img.shields.io/badge/Private%20Repositories-6-red?style=for-the-badge)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=handue&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=handue&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=handue&theme=radical" />
-
-## ⌨️ Coding Activity
-[![Total time coded since Dec 28 2023](https://wakatime.com/badge/user/yourusername/interval:total.svg)](https://wakatime.com/@yourusername)
-
-> Includes activity from all repositories (public and private)
