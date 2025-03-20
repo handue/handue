@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=62)
 
 ## 👋 About Me
-Full Stack Developer passionate about building innovative applications and solutions.
+Full Stack Developer passionate about building innovative applications and solutions from South Korea.
 
 ## 🛠️ Tech Stack
 
@@ -14,6 +14,7 @@ Full Stack Developer passionate about building innovative applications and solut
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -36,7 +37,7 @@ Full Stack Developer passionate about building innovative applications and solut
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=handue&show_icons=true&theme=radical)
 
 ## 💼 Experience
 - Frontend: JavaScript/TypeScript (React.js) – 3+ years, HTML5/CSS3 – 3+ years
@@ -46,8 +47,7 @@ Full Stack Developer passionate about building innovative applications and solut
 - DevOps & Tools: AWS, Git, Firebase, Heroku, Nginx
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uznah.j08@gmail.com)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
