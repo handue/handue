@@ -48,8 +48,8 @@ Full Stack Developer passionate about building innovative applications and solut
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=handue&theme=radical" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=handue&theme=radical" />
 
-![Total Repositories](https://img.shields.io/badge/Total%20Repositories-21-blue?style=for-the-badge)
-![Public Repositories](https://img.shields.io/badge/Public%20Repositories-6-green?style=for-the-badge)
+![Total Repositories](https://img.shields.io/badge/Total%20Repositories-23-blue?style=for-the-badge)
+![Public Repositories](https://img.shields.io/badge/Public%20Repositories-8-green?style=for-the-badge)
 ![Private Repositories](https://img.shields.io/badge/Private%20Repositories-15-red?style=for-the-badge)
 
 
