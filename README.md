@@ -49,7 +49,50 @@ Full Stack Developer passionate about building innovative applications and solut
 ## 📊 GitHub Stats
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=handue&theme=radical" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=handue&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=handue&theme=radical" />
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- 배경 -->
+  <rect width="400" height="300" rx="4.5" fill="#0D1117"/>
+  
+  <!-- 제목 -->
+  <text x="50" y="50" fill="#FF6AC1" font-size="28" font-family="Arial, sans-serif">Top Languages by Commit</text>
+  
+  <!-- 도넛 차트 -->
+  <g transform="translate(200, 170)">
+    <!-- Java (35%) -->
+    <path d="M 0 -80 A 80 80 0 0 1 69.28 -40 L 0 0 Z" fill="#b07219"/>
+    
+    <!-- TypeScript (25%) -->
+    <path d="M 69.28 -40 A 80 80 0 0 1 69.28 40 L 0 0 Z" fill="#2b7489"/>
+    
+    <!-- C# (22%) -->
+    <path d="M 69.28 40 A 80 80 0 0 1 0 80 L 0 0 Z" fill="#178600"/>
+    
+    <!-- Dart (18%) -->
+    <path d="M 0 80 A 80 80 0 0 1 -80 0 A 80 80 0 0 1 0 -80 L 0 0 Z" fill="#00B4AB"/>
+    
+    <!-- 중앙 원 (도넛 효과) -->
+    <circle cx="0" cy="0" r="40" fill="#0D1117"/>
+  </g>
+  
+  <!-- 범례 -->
+  <g transform="translate(50, 220)">
+    <!-- Java -->
+    <rect x="0" y="0" width="20" height="20" fill="#b07219"/>
+    <text x="30" y="15" fill="#ffffff" font-size="16" font-family="Arial, sans-serif">Java (35%)</text>
+    
+    <!-- TypeScript -->
+    <rect x="0" y="30" width="20" height="20" fill="#2b7489"/>
+    <text x="30" y="45" fill="#ffffff" font-size="16" font-family="Arial, sans-serif">TypeScript (25%)</text>
+    
+    <!-- C# -->
+    <rect x="200" y="0" width="20" height="20" fill="#178600"/>
+    <text x="230" y="15" fill="#ffffff" font-size="16" font-family="Arial, sans-serif">C# (22%)</text>
+    
+    <!-- Dart -->
+    <rect x="200" y="30" width="20" height="20" fill="#00B4AB"/>
+    <text x="230" y="45" fill="#ffffff" font-size="16" font-family="Arial, sans-serif">Dart (18%)</text>
+  </g>
+</svg>
 
 ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-22-blue?style=for-the-badge)
 ![Public Repositories](https://img.shields.io/badge/Public%20Repositories-8-green?style=for-the-badge)
