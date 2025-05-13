@@ -57,8 +57,8 @@ Full Stack Developer passionate about building innovative applications and solut
 ![C#](https://img.shields.io/badge/C%23-15%25-green?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 📁 Repository Overview (Including Private Repos)
-![Total Repositories](https://img.shields.io/badge/Total%20Repositories-22-blue?style=for-the-badge)
-![Public Repositories](https://img.shields.io/badge/Public%20Repositories-8-green?style=for-the-badge)
+![Total Repositories](https://img.shields.io/badge/Total%20Repositories-23-blue?style=for-the-badge)
+![Public Repositories](https://img.shields.io/badge/Public%20Repositories-9-green?style=for-the-badge)
 ![Private Repositories](https://img.shields.io/badge/Private%20Repositories-14-red?style=for-the-badge)
 
 
