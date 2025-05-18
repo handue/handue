@@ -49,6 +49,7 @@ Full Stack Developer passionate about building innovative applications and solut
 ## 📊 GitHub Stats
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=handue&theme=radical" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=handue&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handue&layout=compact&theme=radical" />
 
 
 ## 💻 Top Languages by Commit (Including Private Repos)
