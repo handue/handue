@@ -51,8 +51,9 @@ Full Stack Developer passionate about building innovative applications and solut
 ## 💻 Top Languages by Commit (Including Private Repos)
 ![Java](https://img.shields.io/badge/Java-30%25-brown?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-30%25-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-25%25-teal?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-15%25-green?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-20%25-green?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart(Flutter)](https://img.shields.io/badge/Dart-20%25-teal?style=for-the-badge&logo=dart&logoColor=white)
+
 
 ## 📁 Repository Overview (Including Private Repos)
 ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-23-blue?style=for-the-badge)
