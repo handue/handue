@@ -48,9 +48,9 @@ Full Stack Developer passionate about building innovative applications and solut
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handue&layout=compact&theme=radical&hide_border=true" />
 
 ## 💻 Top Languages by Commit (Including Private Repos)
-![Java](https://img.shields.io/badge/Java-30%25-brown?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-30%25-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-20%25-green?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-25%25-brown?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-25%25-green?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Dart(Flutter)](https://img.shields.io/badge/Dart-20%25-teal?style=for-the-badge&logo=dart&logoColor=white)
 
 
