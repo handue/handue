@@ -59,4 +59,3 @@ Full Stack Developer passionate about building innovative applications and solut
 ![Public Repositories](https://img.shields.io/badge/Public%20Repositories-11-green?style=for-the-badge)
 ![Private Repositories](https://img.shields.io/badge/Private%20Repositories-13-red?style=for-the-badge)
 
-
