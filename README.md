@@ -62,6 +62,6 @@ Software Engineer passionate about building innovative applications and solution
 
 ## 📁 Repository Overview (Including Private Repos)
 ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-29-blue?style=for-the-badge)
-![Public Repositories](https://img.shields.io/badge/Public%20Repositories-11-green?style=for-the-badge)
-![Private Repositories](https://img.shields.io/badge/Private%20Repositories-18-red?style=for-the-badge)
+![Public Repositories](https://img.shields.io/badge/Public%20Repositories-14-green?style=for-the-badge)
+![Private Repositories](https://img.shields.io/badge/Private%20Repositories-15-red?style=for-the-badge)
 
