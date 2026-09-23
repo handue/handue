@@ -61,7 +61,7 @@ Software Engineer passionate about building innovative applications and solution
 ![Python](https://img.shields.io/badge/Python-10%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📁 Repository Overview (Including Private Repos)
-![Total Repositories](https://img.shields.io/badge/Total%20Repositories-24-blue?style=for-the-badge)
+![Total Repositories](https://img.shields.io/badge/Total%20Repositories-29-blue?style=for-the-badge)
 ![Public Repositories](https://img.shields.io/badge/Public%20Repositories-11-green?style=for-the-badge)
-![Private Repositories](https://img.shields.io/badge/Private%20Repositories-13-red?style=for-the-badge)
+![Private Repositories](https://img.shields.io/badge/Private%20Repositories-18-red?style=for-the-badge)
 
