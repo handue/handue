@@ -39,23 +39,24 @@ Software Engineer passionate about building innovative applications and solution
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📊 GitHub Stats
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=handue&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handue&layout=compact&theme=radical&hide_border=true" />
 
 ## 💻 Top Languages by Commit (Including Private Repos)
-![TypeScript](https://img.shields.io/badge/TypeScript-30%25-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-25%25-brown?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-25%25-green?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Dart(Flutter)](https://img.shields.io/badge/Dart-20%25-teal?style=for-the-badge&logo=dart&logoColor=white)
-
+![TypeScript + JavaScript](https://img.shields.io/badge/TypeScript%20%2B%20JavaScript-35%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-20%25-brown?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-20%25-green?style=for-the-badge)
+![Dart (Flutter)](https://img.shields.io/badge/Dart%20(Flutter)-15%25-teal?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-10%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📁 Repository Overview (Including Private Repos)
 ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-24-blue?style=for-the-badge)
