@@ -51,7 +51,7 @@ Software Engineer passionate about building innovative applications and solution
 
 ## 📊 GitHub Stats
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=handue&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handue&layout=compact&theme=radical&hide_border=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handue&layout=compact&theme=radical&hide_border=true" /> -->
 
 ## 💻 Top Languages by Commit (Including Private Repos)
 ![TypeScript + JavaScript](https://img.shields.io/badge/TypeScript%20%2B%20JavaScript-35%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
